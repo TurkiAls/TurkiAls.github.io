@@ -179,7 +179,8 @@ nav,
   min-height: 100vh;
 }
 
-.header {
+.header,
+.header__content {
   position: absolute;
   top: 50%;
   left: 50%;
